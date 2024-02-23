@@ -644,7 +644,7 @@ video {
 
 .bg-backg {
   --tw-bg-opacity: 1;
-  background-color: rgb(249 191 42 / var(--tw-bg-opacity));
+  background-color: rgb(254 203 74 / var(--tw-bg-opacity));
 }
 
 .object-cover {

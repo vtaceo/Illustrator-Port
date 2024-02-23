@@ -3,7 +3,7 @@ module.exports = {
   content: ["./dist/*.{html,js}"],
   theme: {
     colors:{
-    'backg': "#f9bf2a",
+    'backg': "#fecb4a",
     },
     extend: {},
   },
